@@ -5,8 +5,10 @@ use tensorflow to implement a end-to-end algorithm according baidu deepspeech pa
   see requirements.txt
   
 ## 2 data and preprocess
-### 2.1 English corpus:[LibriSpeech](http://www.openslr.org/12)
-### 2.2 Chinese corpus:[THCHS-30](http://www.openslr.org/18/)
+### 2.1 English corpus:[LibriSpeech](http://www.openslr.org/12) 
+tried the [train-clean-100.tar.gz]
+### 2.2 Chinese corpus:[THCHS-30](http://www.openslr.org/18/) 
+tried the [data_thchs30.tgz]
 ### 2.3 preprocess
 #### 1.librispeech
 ```
